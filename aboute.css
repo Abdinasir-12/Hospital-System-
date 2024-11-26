@@ -1,0 +1,44 @@
+.sax{
+    background-color: red;
+    color: aliceblue;
+    font-size: 1.3em;
+    width: 300px;
+    height: 300px;
+    
+    padding-top: 10%;
+    padding-left: 10%;
+   border: solid black 2px;
+   border-top-left-radius: 50px ;
+   border-bottom-right-radius: 50px ;
+}
+.section3{
+    display: flex;
+    justify-content: space-between;
+}
+.kuli{
+    
+}
+.sax1{
+    margin-top: 10%;
+    background-color: blue;
+    border-radius: 100%;
+    width: 500px;
+    height: 500px;
+    text-align: center;
+
+}
+.sax1 img{
+    margin-top: 10%;
+}
+.call{
+    margin-top: 10%;
+    background-color: blue;
+    border-radius: 100%;
+    width: 500px;
+    height: 500px;
+    text-align: center;
+
+}
+.call img{
+    margin-top: 10%;
+}
